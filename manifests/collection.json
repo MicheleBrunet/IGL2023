@@ -1,0 +1,13 @@
+{
+  "id" : "https://MicheleBrunet.github.io/IGL2023/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in MicheleBrunet/IGL2023 project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://MicheleBrunet.github.io/IGL2023/manifests/essai_manifest.json",
+    "label" : "[Click to edit label]"
+  } ]
+}
