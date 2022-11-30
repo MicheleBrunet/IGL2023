@@ -1,0 +1,135 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://MicheleBrunet.github.io/IGL2023/manifests/essai_manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "[Click to edit label]",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[Click to edit description]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://a592128e-173f-46d1-987a-598f1267e0c8",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@type" : "sc:Canvas",
+      "@id" : "https://data.artmuseum.princeton.edu/iiif/objects/22783/canvas/22783-canvas-62101",
+      "height" : 2000,
+      "width" : 1037,
+      "images" : [ {
+        "resource" : {
+          "@type" : "dctypes:Image",
+          "@id" : "https://puam-loris.aws.princeton.edu/loris/INV08172.jp2/full/full/0/default.jpg",
+          "format" : "image/jpeg",
+          "height" : 2000,
+          "width" : 1037,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@id" : "https://puam-loris.aws.princeton.edu/loris/INV08172.jp2"
+          }
+        },
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "@id" : "https://data.artmuseum.princeton.edu/iiif/objects/22783/annotation/22783-anno-62101",
+        "on" : "https://data.artmuseum.princeton.edu/iiif/objects/22783/canvas/22783-canvas-62101"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://puam-loris.aws.princeton.edu/loris/INV08172.jp2/full/!350,350/0/default.jpg",
+        "service" : {
+          "@context" : "http://iiif.io/api/image/2/context.json",
+          "@id" : "https://puam-loris.aws.princeton.edu/loris/INV08172.jp2",
+          "profile" : "http://iiif.io/api/image/2/level2.json"
+        }
+      },
+      "label" : "Valley and Mountains, after Zhao Boju (擬趙千里荷鄉清夏)",
+      "related" : {
+        "@id" : "https://data.artmuseum.princeton.edu/iiif/objects/22783",
+        "label" : "Chinese, Qing dynasty (1644–1912), Xiao Chen 蕭晨 (ca. 1645–ca. 1715), Valley and Mountains, after Zhao Boju (擬趙千里荷鄉清夏), undated; late 17th–early 18th century. Hanging scroll; ink and color on silk, 221 x 94 cm (Painting); 328 x 11.5 cm (mount);  (with knobs). Gift of DuBois Schanck Morris, Class of 1893 (y1947-100)",
+        "format" : ""
+      }
+    }, {
+      "@type" : "sc:Canvas",
+      "@id" : "https://data.artmuseum.princeton.edu/iiif/objects/22783/canvas/22783-canvas-220565",
+      "height" : 5484,
+      "width" : 7320,
+      "images" : [ {
+        "resource" : {
+          "@type" : "dctypes:Image",
+          "@id" : "https://puam-loris.aws.princeton.edu/loris/PUAMSTU2018-1955656.jp2/full/full/0/default.jpg",
+          "format" : "image/jpeg",
+          "height" : 5484,
+          "width" : 7320,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@id" : "https://puam-loris.aws.princeton.edu/loris/PUAMSTU2018-1955656.jp2"
+          }
+        },
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "@id" : "https://data.artmuseum.princeton.edu/iiif/objects/22783/annotation/22783-anno-220565",
+        "on" : "https://data.artmuseum.princeton.edu/iiif/objects/22783/canvas/22783-canvas-220565"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://puam-loris.aws.princeton.edu/loris/PUAMSTU2018-1955656.jp2/full/!350,350/0/default.jpg",
+        "service" : {
+          "@context" : "http://iiif.io/api/image/2/context.json",
+          "@id" : "https://puam-loris.aws.princeton.edu/loris/PUAMSTU2018-1955656.jp2",
+          "profile" : "http://iiif.io/api/image/2/level2.json"
+        }
+      },
+      "label" : "Valley and Mountains, after Zhao Boju (擬趙千里荷鄉清夏)",
+      "related" : {
+        "@id" : "https://data.artmuseum.princeton.edu/iiif/objects/22783",
+        "label" : "Chinese, Qing dynasty (1644–1912), Xiao Chen 蕭晨 (ca. 1645–ca. 1715), Valley and Mountains, after Zhao Boju (擬趙千里荷鄉清夏), undated; late 17th–early 18th century. Hanging scroll; ink and color on silk, 221 x 94 cm (Painting); 328 x 11.5 cm (mount);  (with knobs). Gift of DuBois Schanck Morris, Class of 1893 (y1947-100)",
+        "format" : ""
+      },
+      "metadata" : [ ]
+    }, {
+      "@type" : "sc:Canvas",
+      "@id" : "https://data.artmuseum.princeton.edu/iiif/objects/22783/canvas/22783-canvas-220563",
+      "height" : 5484,
+      "width" : 7320,
+      "images" : [ {
+        "resource" : {
+          "@type" : "dctypes:Image",
+          "@id" : "https://puam-loris.aws.princeton.edu/loris/PUAMSTU2018-1955654.jp2/full/full/0/default.jpg",
+          "format" : "image/jpeg",
+          "height" : 5484,
+          "width" : 7320,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@id" : "https://puam-loris.aws.princeton.edu/loris/PUAMSTU2018-1955654.jp2"
+          }
+        },
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "@id" : "https://data.artmuseum.princeton.edu/iiif/objects/22783/annotation/22783-anno-220563",
+        "on" : "https://data.artmuseum.princeton.edu/iiif/objects/22783/canvas/22783-canvas-220563"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://puam-loris.aws.princeton.edu/loris/PUAMSTU2018-1955654.jp2/full/!350,350/0/default.jpg",
+        "service" : {
+          "@context" : "http://iiif.io/api/image/2/context.json",
+          "@id" : "https://puam-loris.aws.princeton.edu/loris/PUAMSTU2018-1955654.jp2",
+          "profile" : "http://iiif.io/api/image/2/level2.json"
+        }
+      },
+      "label" : "Valley and Mountains, after Zhao Boju (擬趙千里荷鄉清夏)",
+      "related" : {
+        "@id" : "https://data.artmuseum.princeton.edu/iiif/objects/22783",
+        "label" : "Chinese, Qing dynasty (1644–1912), Xiao Chen 蕭晨 (ca. 1645–ca. 1715), Valley and Mountains, after Zhao Boju (擬趙千里荷鄉清夏), undated; late 17th–early 18th century. Hanging scroll; ink and color on silk, 221 x 94 cm (Painting); 328 x 11.5 cm (mount);  (with knobs). Gift of DuBois Schanck Morris, Class of 1893 (y1947-100)",
+        "format" : ""
+      }
+    } ]
+  } ],
+  "structures" : [ ]
+}
